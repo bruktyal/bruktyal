@@ -4,10 +4,18 @@
 
 ## Biruktawit Yalew
 
-#     Cybersecurity Enthusiast
+<h1>
+  <span style="color:#00ff88;">🛡️ Cybersecurity Enthusiast</span>
+</h1>
 
-###    Aspiring Penetration Tester |   Software Engineer
+<h3>
+  🔐 Aspiring Penetration Tester | 💻 Software Engineer
+</h3>
 
-> **"Attack to understand. Defend to protect."**
+<h4>
+  <span style="color:#ff3333;">
+    "Attack to understand. Defend to protect."
+  </span>
+</h4>
 
 </div>
