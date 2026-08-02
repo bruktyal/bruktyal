@@ -1,21 +1,17 @@
 <div align="center">
 
-# 👋 Hello World
+#     Hello World
 
 ## Biruktawit Yalew
 
-<h1>
-  <span style="color:#00ff88;">    Cybersecurity Enthusiast</span>
-</h1>
+<img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-00ff88?style=for-the-badge&logo=hackthebox&logoColor=white">
 
-<h3>
-      Aspiring Penetration Tester |     Software Engineer
-</h3>
+###     Aspiring Penetration Tester |     Software Engineer
 
 <h4>
-  <span style="color:#ff3333;">
-    "Attack to understand. Defend to protect."
-  </span>
+<span style="color:red;">
+"Attack to understand. Defend to protect."
+</span>
 </h4>
 
 </div>
