@@ -5,11 +5,11 @@
 ## Biruktawit Yalew
 
 <h1>
-  <span style="color:#00ff88;">🛡️ Cybersecurity Enthusiast</span>
+  <span style="color:#00ff88;">    Cybersecurity Enthusiast</span>
 </h1>
 
 <h3>
-  🔐 Aspiring Penetration Tester | 💻 Software Engineer
+      Aspiring Penetration Tester |     Software Engineer
 </h3>
 
 <h4>
