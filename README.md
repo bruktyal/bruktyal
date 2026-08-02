@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bruktyal/bruktyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello World
 
-Here are some ideas to get you started:
+## Biruktawit Yalew
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#     Cybersecurity Enthusiast
+
+###    Aspiring Penetration Tester |   Software Engineering Student
+
+> **"Attack to understand. Defend to protect."**
+
+</div>
