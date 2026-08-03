@@ -6,7 +6,7 @@
 <h1>Cybersecurity Enthusiast</h1>
 <h4>Penetration Tester | Software Engineer</h4>
 
-<br><br>
+<br>
 
 <blockquote>
 <b>"Attack to understand. Defend to protect."</b>
