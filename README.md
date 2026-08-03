@@ -14,7 +14,7 @@
 
 
 
-###    Aspiring Penetration Tester |   Software Engineer
+###              Penetration Tester |   Software Engineer
 
 
 
