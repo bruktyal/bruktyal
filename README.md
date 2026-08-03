@@ -4,10 +4,11 @@
 
 ## Biruktawit Yalew
 
-# Cybersecurity Enthusiast
+<h1>Cybersecurity Enthusiast</h1>
 
-### Penetration Tester | Software Engineer
+<h3>Penetration Tester | Software Engineer</h3>
 
+<br><br>
 
 > **"Attack to understand. Defend to protect."**
 
