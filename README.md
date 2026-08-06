@@ -67,9 +67,9 @@
 </td>
 </tr>
 </table>
-<h3>
+<h2>
   
     "Attack to protect."
   
-</h3>
+</h2>
 </div>
