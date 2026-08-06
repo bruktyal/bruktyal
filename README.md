@@ -49,7 +49,7 @@
 │                              │
 │ 💻 TECH STACK                │
 │ > Python | Java | Dart       │
-│ > HTML | CSS | JavaScript    │
+│ > C++ | JavaScript           │
 | > Flutter                    |
 │ > Bash | Linux               │
 │ > Kali Linux | Windows       │
@@ -59,7 +59,7 @@
 │                              │
 │ 📚 CURRENTLY LEARNING        │
 │ > Network Security           │
-│ > AI Security                │
+│ > AI red teaming             │
 │                              │
 └──────────────────────────────┘
 ```
