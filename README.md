@@ -58,7 +58,6 @@
 │ > Git                        │
 │                              │
 │ 📚 CURRENTLY LEARNING        │
-│ > Network Security           │
 │ > AI red teaming             │
 │                              │
 └──────────────────────────────┘
