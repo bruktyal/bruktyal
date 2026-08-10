@@ -59,7 +59,6 @@
 │                              │
 │ 📚 CURRENTLY LEARNING        │
 │ > AI red teaming             │
-│                              │
 └──────────────────────────────┘
 ```
 
