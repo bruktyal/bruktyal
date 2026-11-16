@@ -41,22 +41,21 @@
 │ Field: Software Engineering  │
 │ Focus: Cybersecurity         │
 │                              │
-│ 🛡️ CYBERSECURITY            │
+│ 🛡️ CYBERSECURITY             │
 │ > Web Application Security   │
 │ > Penetration Tester         │
 │ > Ethical Hacker             │
 │ > CTF Player                 │
 │                              │
 │ 💻 TECH STACK                │
-│ > Python | Java | Dart       │
-│ > C++ | JavaScript           │
-| > Flutter                    |
-│ > Bash | Linux               │
+│ > Python | Java | C++| JS    │
 │ > Kali Linux | Windows       │
-│ > Burp Suite | Nmap          │
-│ > Wireshark                  │
-│ > Git                        │
-│                              │
+│ > Bash                       │
+│ > Wireshark | Nmap           │
+│ > Burp Suite | Metasploit    |
+│ > OWASP ZAP  │  SQLmap       |
+│ > Gobuster | Nikto           │
+│ > Netcat | Hydra             │
 │ 📚 CURRENTLY LEARNING        │
 │ > AI red teaming             │
 └──────────────────────────────┘
