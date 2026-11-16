@@ -55,7 +55,8 @@
 │ > Burp Suite | Metasploit    |
 │ > OWASP ZAP  │  SQLmap       |
 │ > Gobuster | Nikto           │
-│ > Netcat | Hydra             │
+│ > Netcat | Hydra             |
+|                              │
 │ 📚 CURRENTLY LEARNING        │
 │ > AI red teaming             │
 └──────────────────────────────┘
